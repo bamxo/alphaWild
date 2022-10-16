@@ -1,5 +1,5 @@
 # alphaWild
-Alpha Version of Wild: a survival game for no reason...
+Alpha Version of Wildin Foos: a survival game for no reason...
 
 Concept:
 singleplayer/co-op survival game defeat 3 bosses and 1 final boss to win
